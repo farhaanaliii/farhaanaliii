@@ -4,4 +4,4 @@
 #
 ![farhanaliofficial](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanaliofficial)
 #
-![farhanaliofficial Lite++](https://github-readme-stats.vercel.app/api/pin/?username=farhanaliofficial&repo=Lite)
+![farhanaliofficial Lite++](https://github-readme-stats.vercel.app/api/pin/?username=farhanaliofficial&repo=Lite&show_owner=true)
