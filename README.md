@@ -1,5 +1,11 @@
 # Farhan Ali
 ___
+_*Full Stack Developer*_🔥<br>
+_*Programming is Love*_❤️<br>
+_*First Year Student*_🌚<br>
+_*15 Year Old*_😶<br>
+___
+___
 _Contact_<br>
 [![Facebook](https://img.shields.io/badge/Facebook-Farhan%20Ali-blue?style=flat-square&logo=facebook)](https://www.facebook.com/farhan.ali.0001)
 ___
