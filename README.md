@@ -1,9 +1,9 @@
 # Farhan Ali
 ___
-_*Full Stack Developer*_🔥<br>
-_*Programming is Love*_❤️<br>
-_*First Year Student*_🌚<br>
-_*15 Year Old*_😶<br>
+_*Full Stack Developer*🔥_<br>
+_*Programming is Love*❤️_<br>
+_*First Year Student*🌚_<br>
+_*15 Year Old*😶_<br>
 ___
 ___
 _Contact_<br>
