@@ -9,6 +9,8 @@ ___
 _*Some Successful Web Projects*✨_<br><br>
 <a href="https://ytdown.ga/">YouTube Video Downloader</a><br>
 <a href="https://exchangetraffic.ml">Exchange Traffic</a>
+<a href="https://farhanaliofficial.github.io/Random-Password-Generator/">Random Password Generator</a><br>
+<a href="https://farhanaliofficial.github.io/Hex-Color-Code-Generator/">Random Hex Color Code Generator</a>
 ___
 ___
 _Contact_<br>
