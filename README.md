@@ -1,14 +1,14 @@
-### 👋 Hello! I'm Farhan Ali
+# 👋 Hello! I'm Farhan Ali
 
 ![Profile Views](https://views.whatilearened.today/views/github/farhaanaliii/views.svg)
 
-Welcome to my GitHub profile! I’m a passionate backend developer eager to solve real-world problems and explore innovative solutions. Let’s dive into my journey and projects.
+Welcome to my GitHub profile! I'm a backend developer passionate about exploring programming, reverse engineering, and cybersecurity. My coding journey started in 8th class, and since then, I’ve worked on building efficient backend systems, with a focus on API development, data processing, and security. I love solving real-world problems and constantly learning new techniques to improve my skills. When I’m not coding, I’m usually gaming—taking on challenges and enjoying some fun competition!
 
 ---
 
-#### ✨ About Me
+## ✨ About Me
 
-- 🤓 **Coder Since 14**: I started coding at 14, and now, at 17, I’m continuously learning and growing.
+- 🤓 **Coder Since 14**: I started coding at 14, and now, at 18, I’m continuously learning and growing.
 - 🔧 **Backend Developer**: Passionate about building efficient and secure systems.
 - 🇵🇰 **From Pakistan**: Representing the tech talent from my home country.
 - ⚡ **Languages**: Proficient in Python with PyQt5, love working in C++, and have completed projects in PHP.
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I’m a passionate backend developer eager to solv
 
 ---
 
-#### 🔨 Projects
+## 🔨 Projects
 
 - **[ViDownloader](https://github.com/farhaanaliii/Vi-Downloader)**: A downloader for TikTok, YouTube, Instagram (bulk downloader), and Pinterest, built with Python (PyQt5).
 - **[ExchangeTraffic](http://exchangetraffic.free.nf/)**: A web tool in PHP where users exchange web traffic, complete campaigns to earn coins and create their campaigns.
@@ -29,14 +29,14 @@ Welcome to my GitHub profile! I’m a passionate backend developer eager to solv
 
 ---
 
-#### 💡 Tech Stack
+## 💡 Tech Stack
 
 - **Languages**: Python (PyQt5), C/C++, PHP, Java.
 - **Frameworks & Tools**: Git, VS Code, and Qt6 for GUI development. For web development, I code from scratch without using frameworks.
 
 ---
 
-#### 📢 Connect with Me
+## 📢 Connect with Me
 
 - **Facebook**: [Farhan Ali](https://www.facebook.com/profile.php?id=100005574365605)
 - **Instagram**: [@farhaanaliii](https://www.instagram.com/farhaanaliii)
