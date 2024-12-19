@@ -47,4 +47,9 @@ Welcome to my GitHub profile! I'm a backend developer passionate about exploring
 
 ---
 
-![farhaanaliii Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhaanaliii&theme=dracula)
+## Contribution Grid Snake 🐍
+
+![github-contribution-grid-snake](https://github.com/farhaanaliii/farhaanaliii/blob/main/images/github-contribution-grid-snake.svg)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhaanaliii)
+![Stats](https://github-readme-stats.vercel.app/api?username=farhaanaliii)
