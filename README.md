@@ -22,8 +22,8 @@ Welcome to my GitHub profile! I'm a backend developer passionate about exploring
 
 - **[ViDownloader](https://github.com/farhaanaliii/Vi-Downloader)**: A downloader for TikTok, YouTube, Instagram (bulk downloader), and Pinterest, built with Python (PyQt5).
 - **[ExchangeTraffic](http://exchangetraffic.free.nf/)**: A web tool in PHP where users exchange web traffic, complete campaigns to earn coins and create their campaigns.
-- **[PasteIt](https://pasteit.free.nf/)**: A free Pastebin for code or text snippets, allowing easy sharing across the web, built with PHP.
-- **[Lite++](https://github.com/farhanaliofficial/Lite)**: Tools for Facebook like extracting cookies and login with cookies, built in Java.
+- **[PasteIt](https://pasteit.ftoolz.xyz/)**: A free Pastebin for code or text snippets, allowing easy sharing across the web, built with PHP.
+- **[Lite++](https://github.com/farhaanaliii/Lite)**: Tools for Facebook like extracting cookies and login with cookies, built in Java.
 - **[OpenSpace](http://openspace.42web.io/)**: A social media-inspired platform (Instagram, Facebook), built with PHP. Not completed due to lack of time, but planned for future work.
 - **[JavaScriptRunner](https://github.com/farhaanaliii/Js-Runner)**: A webview-based Android app for running JavaScript, built with Java.
 
