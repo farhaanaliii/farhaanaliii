@@ -26,7 +26,8 @@ Welcome to my GitHub profile! I'm a backend developer passionate about exploring
 - **[Lite++](https://github.com/farhaanaliii/Lite)**: Tools for Facebook like extracting cookies and login with cookies, built in Java.
 - **[OpenSpace](http://openspace.42web.io/)**: A social media-inspired platform (Instagram, Facebook), built with PHP. Not completed due to lack of time, but planned for future work.
 - **[JavaScriptRunner](https://github.com/farhaanaliii/Js-Runner)**: A webview-based Android app for running JavaScript, built with Java.
-
+- **[F15](https://github.com/farhaanaliii/F15)**: A minimilist Programming Language written in C
+- **[Lexer](https://github.com/farhaanaliii/lexer)**: A simple lexer in C++
 ---
 
 ## 💡 Tech Stack
