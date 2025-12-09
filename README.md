@@ -2,7 +2,7 @@
 
 ![Profile Views](https://views.whatilearened.today/views/github/farhaanaliii/views.svg)
 
-Welcome to my GitHub profile! I'm a backend developer passionate about exploring programming, reverse engineering, and cybersecurity. My coding journey started in 8th class, and since then, I’ve worked on building efficient backend systems, with a focus on API development, data processing, and security. I love solving real-world problems and constantly learning new techniques to improve my skills. When I’m not coding, I’m usually gaming—taking on challenges and enjoying some fun competition!
+Welcome to my GitHub profile! I'm a backend developer passionate about exploring programming, reverse engineering, and cybersecurity. My coding journey began in 8th grade, and since then, I’ve focused on building efficient backend systems, with a particular emphasis on API development, data processing, and security. I enjoy solving real-world problems and continually learning new techniques to enhance my skills. When I’m not coding, I’m usually gaming—taking on challenges and enjoying some fun competition!
 
 ---
 
@@ -20,14 +20,18 @@ Welcome to my GitHub profile! I'm a backend developer passionate about exploring
 
 ## 🔨 Projects
 
-- **[ViDownloader](https://github.com/farhaanaliii/Vi-Downloader)**: A downloader for TikTok, YouTube, Instagram (bulk downloader), and Pinterest, built with Python (PyQt5).
-- **[ExchangeTraffic](http://exchangetraffic.free.nf/)**: A web tool in PHP where users exchange web traffic, complete campaigns to earn coins and create their campaigns.
+- **[ViDownloader](https://github.com/farhaanaliii/ViDownloader)**: A downloader for TikTok, YouTube, Instagram (bulk downloader), and Pinterest, built with Python (PyQt5).
+- **[ExchangeTraffic](http://exchangetraffic.free.nf/)**: A web tool in PHP where users exchange web traffic, complete campaigns to earn coins, and create their own campaigns.
 - **[PasteIt](https://pasteit.ftoolz.xyz/)**: A free Pastebin for code or text snippets, allowing easy sharing across the web, built with PHP.
-- **[Lite++](https://github.com/farhaanaliii/Lite)**: Tools for Facebook like extracting cookies and login with cookies, built in Java.
+- **[Lite++](https://github.com/farhaanaliii/Lite)**: Tools for Facebook, like extracting cookies and logging with cookies, built in Java.
 - **[OpenSpace](http://openspace.42web.io/)**: A social media-inspired platform (Instagram, Facebook), built with PHP. Not completed due to lack of time, but planned for future work.
 - **[JavaScriptRunner](https://github.com/farhaanaliii/Js-Runner)**: A webview-based Android app for running JavaScript, built with Java.
 - **[F15](https://github.com/farhaanaliii/F15)**: A minimilist Programming Language written in C
 - **[Lexer](https://github.com/farhaanaliii/lexer)**: A simple lexer in C++
+- **Metabuddy**: A collection of Facebook automation tools using Selenium. It can manage multiple Facebook accounts, perform bulk posting, add friends, do check-ins, and post on Marketplace.  
+- **YouTube API**: A wrapper around the YouTube Inner API that makes it easy for developers to scrape data.  
+- **[ViPort](https://viport.ftoolz.org/)**: A web app for downloading content from Instagram, TikTok, and Facebook.  
+
 ---
 
 ## 💡 Tech Stack
@@ -47,10 +51,6 @@ Welcome to my GitHub profile! I'm a backend developer passionate about exploring
 - **Collaborate**: Open to learning, collaborating, and sharing knowledge.
 
 ---
-
-## Contribution Grid Snake 🐍
-
-![github-contribution-grid-snake](https://github.com/farhaanaliii/farhaanaliii/blob/main/images/github-contribution-grid-snake.svg)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhaanaliii)
 ![Stats](https://github-readme-stats.vercel.app/api?username=farhaanaliii)
