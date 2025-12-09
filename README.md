@@ -43,12 +43,12 @@ Welcome to my GitHub profile! I'm a backend developer passionate about exploring
 
 ## 📢 Connect with Me
 
-- **Facebook**: [Farhan Ali](https://www.facebook.com/profile.php?id=100005574365605)
-- **Instagram**: [@farhaanaliii](https://www.instagram.com/farhaanaliii)
-- **LinkedIn**: [Farhan Ali](https://www.linkedin.com/in/farhaanaliii)
-- **Portfolio**: [farhaanaliii.github.io](https://farhaanaliii.github.io/)
-- **Email**: [i.farhanali.dev@gmail.com](mailto\:i.farhanali.dev@gmail.com)
-- **Collaborate**: Open to learning, collaborating, and sharing knowledge.
+[![Facebook](https://img.shields.io/badge/Facebook-Farhan%20Ali-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100005574365605)  
+[![Instagram](https://img.shields.io/badge/Instagram-@farhaanaliii-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/farhaanaliii)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farhan%20Ali-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhaanaliii)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-farhaanaliii.github.io-4CAF50?style=flat&logo=web&logoColor=white)](https://farhaanaliii.github.io/)  
+[![Email](https://img.shields.io/badge/Email-i.farhanali.dev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:i.farhanali.dev@gmail.com)  
+[![Collab](https://img.shields.io/badge/Collaboration-Open-blue?style=flat&logo=github&logoColor=white)](#)
 
 ---
 
