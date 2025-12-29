@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a backend developer passionate about exploring
 
 ## 🔨 Projects
 
-- **[ViDownloader](https://github.com/farhaanaliii/ViDownloader)**: A downloader for TikTok, YouTube, Instagram (bulk downloader), and Pinterest, built with Python (PyQt5).
+- **[ViDownloader](https://github.com/farhaanaliii/ViDownloader)**: A modern YouTube bulk video downloader with a clean PyQt5 interface
 - **[ExchangeTraffic](http://exchangetraffic.free.nf/)**: A web tool in PHP where users exchange web traffic, complete campaigns to earn coins, and create their own campaigns.
 - **[PasteIt](https://pasteit.ftoolz.xyz/)**: A free Pastebin for code or text snippets, allowing easy sharing across the web, built with PHP.
 - **[Lite++](https://github.com/farhaanaliii/Lite)**: Tools for Facebook, like extracting cookies and logging with cookies, built in Java.
